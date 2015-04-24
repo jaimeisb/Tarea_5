@@ -24,7 +24,7 @@ public class pila {
 		
 		
 		while(cola2.isEmpty()==false){
-			System.out.println(cola2.remove());
+			System.out.println(cola2.remove()); // No se porque se sale de for =(
 		}
 		
 	
